@@ -5,7 +5,5 @@
  - Paste it inside **``` \Face-Recognition-Attendance-System\face_recognition_data ```** directory
 - run **``` pip install -r requirements.txt inside \Face-Recognition-Attendance-System ```** directory
 - Run **``` python manage.py runserver ```** inside **``` \Face-Recognition-Attendance-System ```** directory to run the project
-- Enjoy !
 
-## Thank You
 
